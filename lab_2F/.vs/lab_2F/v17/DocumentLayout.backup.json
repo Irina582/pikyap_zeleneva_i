@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\LABS(23SEM)\\lab_2F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1DBE31-5A83-4EB7-8548-4A387EC0F9C1}|lab_2F.fsproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\labs(23sem)\\lab_2f\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{3C1DBE31-5A83-4EB7-8548-4A387EC0F9C1}|lab_2F.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\LABS(23SEM)\\lab_2F\\Program.fs",
+              "RelativeDocumentMoniker": "Program.fs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\LABS(23SEM)\\lab_2F\\Program.fs*",
+              "RelativeToolTip": "Program.fs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-05T15:25:01.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
